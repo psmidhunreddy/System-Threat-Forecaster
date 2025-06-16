@@ -35,6 +35,15 @@ The **System Threat Forecaster** is a machine learning-based project aimed at pr
 
 ---
 
+## Working 
+
+- Started with EDA, feature engineering, data cleaning.
+- Built a baseline model(Logistic Regression) to evaluate initial performance.
+- Worked on different models like Random forest, decision trees.
+- Performed hyperparameter tuning.
+- Finally generated predictions using the best ensemble (Voting Classifier) for submission.
+  
+
 ## Results 
 
 - Achieved best score of 0.61 during entire project.
